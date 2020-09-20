@@ -24,8 +24,3 @@ _I do exercises in Stepik (programming courses)_
 ### Languages
 * _English (A2)_
 * _Polish (with a dictionary)_
-
-
-
-
-
